@@ -1,0 +1,26 @@
+<style>#outer{width:90%;
+	max-width:600px;
+	background:#fff;
+	margin:0 auto}
+#cover{border:0;
+	margin:0 auto;
+	padding:10px 0;
+	color:#000;
+	border:2px solid #111}
+.main{width:92%;
+	border:0;
+	border-collapse:collapse;
+	margin:0 auto}
+	.main td{text-align:center;border:0;vertical-align:middle;padding:2px 0;font-size:16px}
+a.b,a.b:visited,a.b:hover{width:96%;
+	display:block;
+	background:#666;
+	border:0;
+	text-decoration:none;color:#fff;text-align:center;margin:1px auto;line-height:20px;height:22px}
+a.c,a.c:visited,a.c:hover{width:96%;
+	font-weight:bold;display:block;
+	background:#c00;text-decoration:none;
+	color:#fff;text-align:center;display:block;margin:1px auto;padding:0;line-height:20px;height:22px}
+input.pan{width:98%;text-align:right;
+	font-weight:bold;font-size:16px;border:1px inset #ddd;line-height:22px;
+	height:24px;background:#d7e3d9;margin:0 auto 3px auto}</style>
